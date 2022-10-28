@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
-    "version": "0.2.0"
+    "productName": "shuiyuan",
+    "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://shuiyuan.sjtu.edu.cn",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
@@ -18,7 +18,7 @@
       "all": true
     },
     "bundle": {
-      "icon": ["icons/weRead.icns"],
+      "icon": ["icons/shuiyuan.icns"],
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
